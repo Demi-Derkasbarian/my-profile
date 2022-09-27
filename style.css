@@ -1,0 +1,42 @@
+body {
+	text-align: center;
+	background-color: #faeee7;
+	font-family: 'Red Hat Display', sans-serif;
+}
+h1 {
+color: skyblue;
+font-family: 'Red Hat Display', sans-serif;
+}
+h2 {
+	color: skyblue;
+	font-family: 'Red Hat Display', sans-serif;
+}
+a {
+	color: black;
+}
+div {
+	width: 800px;
+	padding: 16px;
+	text-align: center;
+	margin: 0 auto;
+	margin-bottom: 32px;
+	box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+	border-radius: 8px;
+}
+.btn-brown {
+	padding: 10px 16px;
+	text-decoration: none;
+	background-color: skyblue;
+	color: white;
+	border-radius: 4px;
+	display: inline-block;
+}
+
+.btn-brown:hover {
+	background-color: pink;
+}
+
+.banner {
+	border: 1px solid darkred;
+	background-image: url(https://images.unsplash.com/photo-1534351590666-13e3e96b5017?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80);
+}
